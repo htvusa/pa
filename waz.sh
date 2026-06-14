@@ -2,8 +2,8 @@
 
 # ─────────────────────────────────────────────
 #  generate-manifest.sh
-#  Scans the nashed/ folder and creates
-#  nashed/manifest.json with all audio files.
+#  Scans the waz/ folder and creates
+#  waz/manifest.json with all audio files.
 #
 #  Usage:
 #    chmod +x generate-manifest.sh
